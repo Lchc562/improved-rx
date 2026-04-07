@@ -1,5 +1,5 @@
-# improved-rx
-This repository is for showcasing the source code of the paper "Improved Deep Learning-Based Rotational-XOR1 Attacks on Simon32/64 and Simeck32/642".
+# Improved Deep Learning-Based Rotational-XOR Attacks on Simon32/64 and Simeck32/64
+This repository is for showcasing the source code of the paper "Improved Deep Learning-Based Rotational-XOR1 Attacks on Simon32/64 and Simeck32/64".
 
 # Repository Structure
 This repository contains six folders corresponding to the modules described in the paper:
